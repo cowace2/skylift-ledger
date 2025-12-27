@@ -55,7 +55,7 @@ You could probably figure out how to do a multiplayer setup (maybe with one pilo
 **Does it cost money?**
 No. It's free.
 
-**I'm an actual software developer Can I modify/improve on this?**
+**I'm an actual software developer. Can I modify/improve on this?**
 Absolutely! I don't care what you do with it, but if you do something cool, please share with me.
 
 **Will it work with other flight sims?**
