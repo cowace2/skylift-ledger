@@ -55,6 +55,9 @@ You could probably figure out how to do a multiplayer setup (maybe with one pilo
 **Does it cost money?**
 No. It's free.
 
+**I'm an actual software developer Can I modify/improve on this?**
+Absolutely! I don't care what you do with it, but if you do something cool, please share with me.
+
 **Will it work with other flight sims?**
 Sure. The aircraft database is from MSFS2024, but you can add any plane you like. The rest of it is fully sim agnostic. 
 
@@ -66,6 +69,9 @@ Yes, after you load the airport database once.
 
 **Why 71,000 airports?**
 Because that was easier than filtering, and the database wasn't that big. If you want to create a smaller database, altering it is fairly simple: just follow the format in the one provided. Any modern LLM can do it in a few minutes. 
+
+**There are bugs!**
+Hell yes there are. Probably lots of them. Please report through GitHub.
 
 **Will development continue?**
 Sure! I'm not a professional developer (if that wasn't obvious) and this thing has some clear limitations, but there's still some interesting stuff to be added. 
